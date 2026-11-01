@@ -1,0 +1,10 @@
+# 排除私密持仓与生成报告
+Hold list.xlsx
+Reports/
+History/
+Logs/
+
+# 排除 Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
